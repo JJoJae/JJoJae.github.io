@@ -1,0 +1,23 @@
+# Site settings
+title: A blog about lorem ipsum dolor sit amet
+description: A blog about lorem ipsum dolor sit amet
+# baseurl: "/particle" # the subpath of your site, e.g. /blog
+# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+
+# User settings
+username: 조재연의 포트폴리오
+user_description1: 안녕하세요. 5년차 Android App 개발자 조재연 입니다.
+user_description2: 항상 배우는 자세로 새로운 기술들을 빠르게 습득하여 문제를 해결하는 것을 좋아합니다.
+user_description5: Android App 뿐만 아니라 iOS App까지 배포가 가능합니다.
+user_description6: SVN 또는 Git을 통한 소스 관리 및 배포 프로세스 경험이 있습니다.
+user_title: 안녕하세요. Adroid 개발자 조재연입니다.
+email: jjy456456@gmail.com
+# twitter_username: lorem_ipsum
+# github_username:  lorem_ipsum
+# gplus_username:  lorem_ipsum
+
+# Google-analytics
+google-analytics:
+  id: ""
+
+exclude: ['package.json', 'src' , 'node_modules']
